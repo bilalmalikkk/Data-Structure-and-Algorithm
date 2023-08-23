@@ -30,7 +30,6 @@ The repository is organized as follows:
 ## Data Structures
 
 Explore different data structures in the `data_structures/` directory, including:
-
 - Arrays
 - Linked Lists
 - Stacks
