@@ -59,4 +59,5 @@ The `labs/` directory contains a series of hands-on lab exercises. Each lab prov
 
 In the `projects/` directory, you'll find more extensive projects that require you to apply multiple data structures and algorithms to solve real-world problems. Each project comes with a detailed description, requirements, and suggested approaches.
 
+
 Happy coding!
